@@ -1,0 +1,6 @@
+pandas==2.2.2
+numpy==1.26.4
+requests==2.32.3
+matplotlib==3.9.0
+jinja2==6.02
+streamlit==1.38.0

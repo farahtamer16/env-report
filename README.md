@@ -1,5 +1,7 @@
 # AI Environmental Report (OpenAQ)
 
+--in progress--
+
 Interactive, AI-native tool that fetches air-quality data from OpenAQ, computes KPIs, plots charts, and auto-writes a brief environmental assessment.
 
 ## Run (CLI)
@@ -11,3 +13,4 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 python main.py  # uses config.example.yaml
+
